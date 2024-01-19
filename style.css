@@ -1,0 +1,75 @@
+body {
+  max-width: 1280px;
+  max-height: 720px;
+  text-align: center;
+  margin: auto;
+  background-color: #fff;
+  font-family: "Open Sans", sans-serif;
+}
+
+h1 {
+  width: 562px;
+  height: 112px;
+  margin: auto;
+  margin-top: 67px;
+  margin-bottom: 32px;
+  font-family: "Inter", sans-serif;
+  line-height: 56px;
+  font-size: 49px;
+  color: #000;
+  font-weight: normal;
+}
+
+h1 span {
+  font-weight: bold;
+}
+
+span,
+a {
+  color: #ff9900;
+}
+
+#textinhos {
+  width: 592px;
+  height: 140px;
+  font-size: 14px;
+  line-height: 28px;
+  color: #7d7987;
+}
+
+#bloco {
+  width: 592px;
+  height: 579px;
+  min-width: none;
+  min-height: none;
+  margin: auto;
+  margin-bottom: 71px;
+}
+
+#imagem {
+  width: 348px;
+  height: 223px;
+}
+
+#footer {
+  width: 568.001px;
+  height: 1px;
+  margin: auto;
+  margin-bottom: 8px;
+  background: #eceff2;
+}
+#rodape {
+  width: 592px;
+  height: 28px;
+  margin: auto;
+  margin-bottom: 33px;
+}
+.link {
+  margin: 0 12px 0 12px;
+}
+
+#bolinhas {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
